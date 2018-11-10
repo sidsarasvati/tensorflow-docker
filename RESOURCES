@@ -1,3 +1,16 @@
 
 - classifying objects in real time video feed using transfer learning on CNN
 https://blog.coast.ai/continuous-online-video-classification-with-tensorflow-inception-and-a-raspberry-pi-785c8b1e13e1
+
+- CNN for videos paper
+https://arxiv.org/pdf/1609.06782.pdf
+
+- Detect Motion
+TODO
+
+- Classify Action in Video Dataset & Direct camera rule based
+http://crcv.ucf.edu/data/UCF101.php
+TODO
+
+- Classify Dialogues :) - multiple people actions in a scene #thisIsTheMagic
+TODO
