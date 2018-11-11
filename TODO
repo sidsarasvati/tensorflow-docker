@@ -1,0 +1,4 @@
+* dockerfile repo on github - like dotfiles
+
+* Create custom docker image with centos - tf-jupyter; use tags for
+  tf_jupyter version
