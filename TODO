@@ -1,4 +1,10 @@
-* dockerfile repo on github - like dotfiles
+* update - https://jupyter-docker-stacks.readthedocs.io/en/latest/using/selecting.html
 
 * Create custom docker image with centos - tf-jupyter; use tags for
   tf_jupyter version
+  ** SEE https://jupyter-docker-stacks.readthedocs.io/en/latest/using/selecting.html
+
+* dockerfile repo on github - like dotfiles
+
+
+ 
