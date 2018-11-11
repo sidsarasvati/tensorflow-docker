@@ -4,8 +4,8 @@ services:
   tf-jupyter:
     image: jupyter/tensorflow-notebook:50d1eb9ec2d8
     volumes:
-      - ./notebook:/notebook
-    working_dir: /notebook
+      - ./notebooks:/notebooks
+    working_dir: /notebooks
     ports:
       - 8888:8888
     
