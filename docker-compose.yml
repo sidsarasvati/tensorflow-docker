@@ -2,9 +2,9 @@ version: '3.4'
 
 services:
   tf-jupyter:
-    image: xblaster/tensorflow-jupyter
+    image: xblaster/tensorflow-jupyter:0.10
     volumes:
       - ./notebook:/notebook
     ports:
-      8888:8888
+      - 8888:8888
     
